@@ -1,0 +1,22 @@
+{
+    "player.swordslash":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bowdamagetweaker:swordslash",
+               "stream": false
+           }
+       ]
+   },
+   "player.criticalstrike":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bowdamagetweaker:criticalstrike",
+               "stream": false
+           }
+       ]
+   }
+}
